@@ -1,4 +1,5 @@
 # Multi-Environment Ticket Management Application Deployment
+Screenshots are saved in the Evidence Folder for reference.
 
 A containerized multi-environment full-stack ticket management system featuring a **React Frontend** (Nginx) and dual **Python Flask Backends** (**Development** & **Production**) connected to **MongoDB Atlas**.
 
