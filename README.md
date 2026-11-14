@@ -30,13 +30,13 @@ multienv/
 ### Backend Development Environment (.env)
 ```
 PORT=3001
-MONGO_URI=your_dev_mongodb_uri
+MONGO_URI=MONGO_URI=mongodb+srv://winsen1983_db_user:senthil123@cluster01.ylgdylz.mongodb.net/tickets_dev
 ```
 
 ### Backend Production Environment (.env)
 ```
 PORT=3002
-MONGO_URI=your_prod_mongodb_uri
+MONGO_URI=mongodb+srv://winsen1983_db_user:senthil123@cluster01.ylgdylz.mongodb.net/tickets_prod
 ```
 
 
