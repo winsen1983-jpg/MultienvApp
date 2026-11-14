@@ -1,6 +1,7 @@
 # MultiEnv Ticket Management System
 
 A full-stack application using Flask for both frontend and backend services, demonstrating environment-specific ticket management.
+Screenshots are saved in the Evidence Folder for reference.
 
 ## Project Structure
 
