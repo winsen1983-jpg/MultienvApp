@@ -11,7 +11,7 @@ A containerized multi-environment full-stack ticket management system featuring 
 ## 2. Prerequisites & Quick Start
 * **Prerequisites:** Docker Desktop (v24.0+), Git, MongoDB Atlas URI.
 * **Clone & Configure:**
-  1. Clone: git clone https://github.com
+  1. Clone: git clone [https://github.com](https://github.com/winsen1983-jpg/MultienvApp)
   2. Create .env files in backend/dev/ (PORT=3001, MONGO_URI, FLASK_ENV=development) and backend/prod/ (PORT=3002, MONGO_URI, FLASK_ENV=production).
 * **Build & Verify:**
   - Start: docker compose up --build -d
