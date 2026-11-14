@@ -1,0 +1,8 @@
+Student Name: SenthilkumarS
+Repository URL: https://github.com/winsen1983-jpg/MultienvApp 
+Deployment Status: Working
+Access URLs:
+- Development: http://localhost:3000/dev
+- Production: http://localhost:3000/prod
+- Frontend: http://localhost:3000
+Date of Submission: 14-11-2026
